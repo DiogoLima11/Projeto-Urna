@@ -821,3 +821,5 @@ void botaofinalizarpressionado()
     setbkcolor(0);
     outtextxy(1093,675,"Encerrar Votação");
 }
+
+//diogolima
